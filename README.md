@@ -1,56 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Testing Practice
 
-> Description the project.
+> A simple project that implemets unit testing.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- JavaScript
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Feel free to get a local copy up and running follow these simple steps:
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Clone the repositiory to your local directory
+- Modify anything you wish
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@amexabee](https://github.com/amexabee)
+- Twitter: [@i_amanuel](https://twitter.com/i_amanuel)
+- LinkedIn: [Amanuel Galema](https://linkedin.com/in/amanuel-galema)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +38,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- My coding partner has helped me a lot!
 
 ## 📝 License
 
