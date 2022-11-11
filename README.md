@@ -8,6 +8,7 @@
 ## Built With
 
 - JavaScript
+- Jest
 
 ## Getting Started
 
